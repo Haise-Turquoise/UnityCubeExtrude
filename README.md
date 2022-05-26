@@ -4,7 +4,7 @@ check result.mp4 to quick know the function of this project\
 Please ignore Chinese comment, they are system generated comment because of the system language
 
 # EASY OPEN method:
-1- open UnityCubeExtrude\cubeDivFinal by Unity\
+1- open UnityCubeExtrude\cubeDivFinal by Unity (DO NOT OPEN .sln by Visual Studio!)\
 2- choose play mode\
 3- press "Extrude" button
 
