@@ -1,5 +1,5 @@
 # UnityCubeExtrude
- C#DLL called by C++ to extrude the cube object in Unity\
+ C++ DLL called by C# to extrude the cube object in Unity\
 check result.mp4 to quick know the function of this project\
 Please ignore Chinese comment, they are system generated comment because of the system language
 
