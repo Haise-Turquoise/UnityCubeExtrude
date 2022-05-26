@@ -24,6 +24,6 @@ for the anticipated function.\
 result.mp4: video of final result
 
 # environment:
-Surface Pro 7 laptop
-Unity 2022.1.2
+Surface Pro 7 laptop\
+Unity 2022.1.2\
 Visual Studio 2019
