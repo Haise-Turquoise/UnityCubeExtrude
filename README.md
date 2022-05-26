@@ -3,8 +3,8 @@
 
 
 # easy open method:
-1- open UnityCubeExtrude\cubeDivFinal\cubeDiv.sln by Unity
-2- choose play mode
+1- open UnityCubeExtrude\cubeDivFinal\cubeDiv.sln by Unity\
+2- choose play mode\
 3- press "Extrude" button
 
 
