@@ -2,7 +2,7 @@
  C#DLL called by C++ to extrude the cube object in Unity\
 check result.mp4 to quick know the function of this project
 
-# easy open method:
+# EASY OPEN method:
 1- open UnityCubeExtrude\cubeDivFinal\cubeDiv.sln by Unity\
 2- choose play mode\
 3- press "Extrude" button
@@ -21,3 +21,8 @@ to\
 UnityCubeExtrude/cubeDivFinal/Assets/Plugins\
 for the anticipated function.\
 result.mp4: video of final result
+
+# environment:
+Surface Pro 7 laptop
+Unity 2022.1.2
+Visual Studio 2019
