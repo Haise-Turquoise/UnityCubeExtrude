@@ -6,7 +6,8 @@ Please ignore Chinese comment, they are system generated comment because of the 
 # EASY OPEN method:
 1- open UnityCubeExtrude\cubeDivFinal by Unity (DO NOT OPEN .sln by Visual Studio!)\
 2- choose play mode\
-3- press "Extrude" button
+3- press "Extrude" button, every side will move out by side normal in the speed of 1cm/ press\
+4- choose play mode again to exit play mode
 
 
 # sequence of creation of file/folder and their definition
